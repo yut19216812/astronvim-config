@@ -36,5 +36,6 @@ return {
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.lsp.actions-preview-nvim" },
   { import = "astrocommunity.editing-support.bigfile-nvim" },
+  { import = "astrocommunity.project.nvim-spectre" },
   -- import/override with your plugins folder
 }
